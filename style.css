@@ -40,9 +40,9 @@ header .shopping span{
 }
 .list .item{
     text-align: center;
-    background-color: #baf7ff;
+    background-color: #a8d3d3;
     padding: 20px;
-    box-shadow: 0 50px 50px #757676;
+    box-shadow: 0 50px 50px #cacaca;
     letter-spacing: 1px;
 }
 .list .item img{
@@ -67,7 +67,7 @@ header .shopping span{
     top:0;
     left: 100%;
     width: 500px;
-    background-color: #453E3B;
+    background-color: #a8d3d3;
     height: 100vh;
     transition: 0.5s;
 }
